@@ -164,6 +164,9 @@ Update your app's server URL:
 private val SERVER_URL = "wss://your-server-url.com/ws"
 ```
 
+**Credits:**
+This repo is based on - [**MetrolistGroup/metroserver**] (https://github.com/MetrolistGroup/metroserver) 
+
 ## Deployment
 
 **Railway (Recommended - 2 min setup):**
